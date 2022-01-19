@@ -5,7 +5,7 @@ const {
   BinarySearchTree
 } = require('../Repaso.js');
 
-describe('BinarySearchTree EJERCICIO 1: height', function() {
+xdescribe('BinarySearchTree EJERCICIO 1: height', function() {
 
   it('Debe devolver la altura de un arbol', function() {
     var tree = new BinarySearchTree(16);
@@ -28,7 +28,7 @@ describe('BinarySearchTree EJERCICIO 1: height', function() {
 
 });
 
-describe('Binary Search Tree', function () {
+xdescribe('Binary Search Tree', function () {
   describe('EJERCICIO 2: order', () => {
       let bst;
       beforeEach(() => {
