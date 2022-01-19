@@ -1,5 +1,5 @@
 Repaso Modulo 1
-En este repo van a encontrar algunos ejercicios de BinarySearchRee. Ya vienen implementados algunos métodos básicos de cada estructura de datos.
+En este repo van a encontrar algunos ejercicios de BinarySearchTree. Ya vienen implementados algunos métodos básicos de cada estructura de datos.
 
 Instrucciones
 Forkear este repo para que puedan pushear sus cambios.
